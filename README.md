@@ -56,5 +56,5 @@
 ## Связь
 
 - Email: archirav4@gmail.com
-- LinkedIn: Artur Topuzov ([ссылка_на_мой_профиль_linkedin](https://www.linkedin.com/in/artur-topuzov-096045273/))
+- LinkedIn: ([Artur Topuzov](https://www.linkedin.com/in/artur-topuzov-096045273/))
 - Ссылка на моё портфолио в Google Docs: https://docs.google.com/document/d/1mqgNhj5WW2LzqG-UXrsVKSH5USKXkfXby-D6jUuxyT4
